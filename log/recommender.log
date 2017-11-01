@@ -1,0 +1,54 @@
+31/10/2017 17:22:10 ------------------------------------------------------------------------------------------------------------------------
+31/10/2017 17:22:10 Script recommender started
+31/10/2017 17:22:11 'pattern' package not found; tag filters are not available for English
+31/10/2017 17:22:21 ------------------------------------------------------------------------------------------------------------------------
+31/10/2017 17:22:21 Script recommender started
+31/10/2017 17:22:22 'pattern' package not found; tag filters are not available for English
+31/10/2017 17:22:26 loading Word2Vec object from models/keywords.model
+31/10/2017 17:22:27 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:22:27 setting ignored attribute syn0norm to None
+31/10/2017 17:22:27 setting ignored attribute cum_table to None
+31/10/2017 17:22:27 loaded models/keywords.model
+31/10/2017 17:22:45 ------------------------------------------------------------------------------------------------------------------------
+31/10/2017 17:22:45 Script recommender started
+31/10/2017 17:22:46 'pattern' package not found; tag filters are not available for English
+31/10/2017 17:22:56 loading Word2Vec object from models/keywords.model
+31/10/2017 17:22:56 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:22:56 setting ignored attribute syn0norm to None
+31/10/2017 17:22:56 setting ignored attribute cum_table to None
+31/10/2017 17:22:56 loaded models/keywords.model
+31/10/2017 17:23:06 loading Word2Vec object from models/keywords.model
+31/10/2017 17:23:06 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:23:06 setting ignored attribute syn0norm to None
+31/10/2017 17:23:06 setting ignored attribute cum_table to None
+31/10/2017 17:23:06 loaded models/keywords.model
+31/10/2017 17:26:34 loading Word2Vec object from models/keywords.model
+31/10/2017 17:26:35 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:26:35 setting ignored attribute syn0norm to None
+31/10/2017 17:26:35 setting ignored attribute cum_table to None
+31/10/2017 17:26:35 loaded models/keywords.model
+31/10/2017 17:26:57 loading Word2Vec object from models/keywords.model
+31/10/2017 17:26:58 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:26:58 setting ignored attribute syn0norm to None
+31/10/2017 17:26:58 setting ignored attribute cum_table to None
+31/10/2017 17:26:58 loaded models/keywords.model
+31/10/2017 17:28:26 loading Word2Vec object from models/keywords.model
+31/10/2017 17:28:26 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:28:26 setting ignored attribute syn0norm to None
+31/10/2017 17:28:26 setting ignored attribute cum_table to None
+31/10/2017 17:28:26 loaded models/keywords.model
+31/10/2017 17:29:04 loading Word2Vec object from models/keywords.model
+31/10/2017 17:29:05 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:29:05 setting ignored attribute syn0norm to None
+31/10/2017 17:29:05 setting ignored attribute cum_table to None
+31/10/2017 17:29:05 loaded models/keywords.model
+31/10/2017 17:32:17 loading Word2Vec object from models/keywords.model
+31/10/2017 17:32:18 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:32:18 setting ignored attribute syn0norm to None
+31/10/2017 17:32:18 setting ignored attribute cum_table to None
+31/10/2017 17:32:18 loaded models/keywords.model
+31/10/2017 17:32:25 loading Word2Vec object from models/keywords.model
+31/10/2017 17:32:26 loading wv recursively from models/keywords.model.wv.* with mmap=None
+31/10/2017 17:32:26 setting ignored attribute syn0norm to None
+31/10/2017 17:32:26 setting ignored attribute cum_table to None
+31/10/2017 17:32:26 loaded models/keywords.model

@@ -1,0 +1,24 @@
+30/10/2017 07:06:40 Script started for update vkino started
+30/10/2017 07:06:41 ------------------------------------------------------------------------------------------------------------------------
+30/10/2017 07:06:41 Checking premieres for updates...
+30/10/2017 07:06:41 Starting new HTTP connection (1): api.vkino.com.ua
+30/10/2017 07:06:42 There were removed (6303, 6275, 6279, 6184, 6283, 6284, 6285, 6065, 6292, 5783, 5240, 6297, 6299, 6295) movies
+30/10/2017 07:06:42 All removed status were updated to 0
+30/10/2017 07:06:42 There were added (6280, 6230, 5914, 5694, 6104) movies to premieres
+30/10/2017 07:06:42 Updated status for movie 6280
+30/10/2017 07:06:42 Updated status for movie 6230
+30/10/2017 07:06:42 Updated status for movie 5914
+30/10/2017 07:06:42 Updated status for movie 5694
+30/10/2017 07:06:42 Updated status for movie 6104
+30/10/2017 07:06:42 Searching movies on tmdb.
+30/10/2017 07:06:42 Starting new HTTPS connection (1): api.themoviedb.org
+30/10/2017 07:06:42 Starting new HTTPS connection (1): api.themoviedb.org
+30/10/2017 07:06:43 Starting new HTTPS connection (1): api.themoviedb.org
+30/10/2017 07:06:43 Starting new HTTPS connection (1): api.themoviedb.org
+30/10/2017 07:06:43 Starting new HTTPS connection (1): api.themoviedb.org
+30/10/2017 07:06:44 Starting new HTTPS connection (1): api.themoviedb.org
+30/10/2017 07:06:44 Got search results
+30/10/2017 07:06:44 Search results cleaned. 0 from 3
+30/10/2017 07:06:44 There was no info about new premieres.
+30/10/2017 07:06:44 [6230, 5914, 5694, 6104]
+30/10/2017 07:06:44 ------------------------------------------------------------------------------------------------------------------------
