@@ -206,8 +206,12 @@ class Recommender():
             all_actor_weights = [r['actor_weight'] for r in self.collected_premieres_info]
             avg_vec_sim = [(r['kw_sim'] + r['genres_sim'])/2 for r in self.collected_premieres_info]
             scaler = MinMaxScaler(feature_range = (min(avg_vec_sim), max(avg_vec_sim)))
-            all_actor_weights = list(list(scaler.fit_transform(np.array(all_actor_weights).reshape(1, -1)))[0])
-
+            if int(min(avg_vec_sim)) == int(max(avg_vec_sim)):
+                all_actor_weights = np.zeros(len(all_actor_weights))
+            else:
+                all_actor_weights = list(list(scaler.fit_transform(np.array(all_actor_weights).reshape(1, -1)))[0])
+            #all_actor_weights = list(list(scaler.fit_transform(np.array(all_actor_weights).reshape(1, -1)))[0])
+            
             for movie, actor_weight in zip(self.collected_premieres_info, all_actor_weights):
                 movie['relevance'] = (movie['kw_sim'] + movie['genres_sim']) / 2 + actor_weight
                 if movie['relevance'] < 0.35: 
