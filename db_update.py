@@ -252,7 +252,7 @@ def matching(search_results, premieres_idx, main_premieres_titles, orig_premiere
 
 def write(true_tmdb_idx, db_name, column_name, movie_status, logger = None):
     for tmdbid, pkid in true_tmdb_idx:
-        movie = Movie.query.filter_by(tmdb_id = 4568).first()
+        movie = Movie.query.filter_by(tmdb_id = tmdbid).first()
         if movie is None:
             new_movie_data = collect_info(tmdbid)
             logger.info('Adding movie {} to movies...'.format(tmdbid))
