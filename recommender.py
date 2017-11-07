@@ -214,7 +214,7 @@ class Recommender():
             
             for movie, actor_weight in zip(self.collected_premieres_info, all_actor_weights):
                 movie['relevance'] = (movie['kw_sim'] + movie['genres_sim']) / 2 + actor_weight
-                if movie['relevance'] < 0.35: 
+                if movie['relevance'] < 0.5: 
                     continue
                 else:
                     result.append(movie)
