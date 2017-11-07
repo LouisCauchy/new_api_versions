@@ -1,0 +1,856 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACCESS_KEY	../mailer_git.py	/^ACCESS_KEY = 'FCRpHzn8PugrkdWEHStNQDZh'    $/;"	kind:variable	line:41
+ACCESS_KEY	../utils.py	/^ACCESS_KEY = 'FCRpHzn8PugrkdWEHStNQDZh'$/;"	kind:variable	line:65
+AGENTS_URL_DATA	../db_update.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+AGENTS_URL_DATA	../db_update_no_pk.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+AGENTS_URL_DATA	../db_update_pk_wrong.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+AGENTS_URL_DATA	../utils.py	/^AGENTS_URL_DATA = {$/;"	kind:variable	line:5
+AGENT_NAME	../db_update.py	/^AGENT_NAME = args.string[0]$/;"	kind:variable	line:15
+AGENT_NAME	../db_update_no_pk.py	/^AGENT_NAME = args.string[0]$/;"	kind:variable	line:15
+AGENT_NAME	../db_update_pk_wrong.py	/^AGENT_NAME = args.string[0]$/;"	kind:variable	line:15
+API_KEY	../db_update.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+API_KEY	../db_update_no_pk.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+API_KEY	../db_update_pk_wrong.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+API_KEY	../utils.py	/^API_KEY = '00d5f265812d91c1267450ffc85e11f6'$/;"	kind:variable	line:1
+Agent	../database.py	/^class Agent(db.Model):$/;"	kind:class	line:16
+Agent	../database_no_pk.py	/^class Agent(db.Model):$/;"	kind:class	line:11
+BASE_FONT_PATH	../mailer_git.py	/^BASE_FONT_PATH = "fonts\/arialbd.ttf"$/;"	kind:variable	line:43
+BASE_PATH	../db_update.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+BASE_PATH	../db_update_no_pk.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+BASE_PATH	../db_update_pk_wrong.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+BdfFontFile	../bin/pilfont.py	/^from PIL import BdfFontFile$/;"	kind:namespace	line:19
+BeautifulSoup	../db_update.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:20
+BeautifulSoup	../db_update_no_pk.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:20
+BeautifulSoup	../db_update_pk_wrong.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:20
+BeautifulSoup	../mailer_git.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:6
+BytesIO	../mailer_git.py	/^from io import BytesIO$/;"	kind:namespace	line:9
+CREATE_USER_URL	../mailer_git.py	/^CREATE_USER_URL = 'https:\/\/api.movieterra.com\/tickets'$/;"	kind:variable	line:47
+Counter	../recommender.py	/^from collections import Counter$/;"	kind:namespace	line:15
+Counter	../recommender_.py	/^from collections import Counter$/;"	kind:namespace	line:15
+Counter	../recommender_old_PK.py	/^from collections import Counter$/;"	kind:namespace	line:15
+Counter	../recommender_old_no_PK.py	/^from collections import Counter$/;"	kind:namespace	line:15
+ENABLE_USER_SITE	../lib/python3.5/site.py	/^ENABLE_USER_SITE = None$/;"	kind:variable	line:81
+ESPUTNIK_PASSWORD	../mailer_git.py	/^ESPUTNIK_PASSWORD = ''$/;"	kind:variable	line:30
+ESPUTNIK_USER	../mailer_git.py	/^ESPUTNIK_USER = ''$/;"	kind:variable	line:29
+Enhance	../bin/enhancer.py	/^class Enhance(tkinter.Frame):$/;"	kind:class	line:23
+Environment	../mailer_git.py	/^from jinja2 import Environment, FileSystemLoader$/;"	kind:namespace	line:7
+FILE_NAME	../mailer_git.py	/^FILE_NAME = args.string[0]$/;"	kind:variable	line:22
+FileSystemLoader	../mailer_git.py	/^from jinja2 import Environment, FileSystemLoader$/;"	kind:namespace	line:7
+Flask	../database.py	/^from flask import Flask$/;"	kind:namespace	line:1
+Flask	../database_no_pk.py	/^from flask import Flask$/;"	kind:namespace	line:1
+HTTPBasicAuth	../db_update.py	/^from requests.auth import HTTPBasicAuth$/;"	kind:namespace	line:23
+HTTPBasicAuth	../db_update_no_pk.py	/^from requests.auth import HTTPBasicAuth$/;"	kind:namespace	line:23
+HTTPBasicAuth	../db_update_pk_wrong.py	/^from requests.auth import HTTPBasicAuth$/;"	kind:namespace	line:23
+HTTPBasicAuth	../mailer_git.py	/^from requests.auth import HTTPBasicAuth$/;"	kind:namespace	line:5
+Image	../bin/enhancer.py	/^from PIL import Image, ImageTk, ImageEnhance$/;"	kind:namespace	line:17
+Image	../bin/explode.py	/^from PIL import Image$/;"	kind:namespace	line:11
+Image	../bin/gifmaker.py	/^from PIL import Image$/;"	kind:namespace	line:19
+Image	../bin/painter.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:19
+Image	../bin/pilconvert.py	/^from PIL import Image$/;"	kind:namespace	line:22
+Image	../bin/pildriver.py	/^from PIL import Image$/;"	kind:namespace	line:53
+Image	../bin/pilfile.py	/^from PIL import Image$/;"	kind:namespace	line:27
+Image	../bin/pilprint.py	/^from PIL import Image$/;"	kind:namespace	line:22
+Image	../bin/player.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:16
+Image	../bin/thresholder.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:17
+Image	../bin/viewer.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:16
+Image	../mailer_git.py	/^from PIL import Image$/;"	kind:namespace	line:15
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:356
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:364
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:374
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:384
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:394
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:404
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:414
+ImageChops	../bin/pildriver.py	/^        from PIL import ImageChops$/;"	kind:namespace	line:426
+ImageDraw	../mailer_git.py	/^from PIL import ImageDraw $/;"	kind:namespace	line:17
+ImageEnhance	../bin/enhancer.py	/^from PIL import Image, ImageTk, ImageEnhance$/;"	kind:namespace	line:17
+ImageEnhance	../bin/pildriver.py	/^        from PIL import ImageEnhance$/;"	kind:namespace	line:440
+ImageEnhance	../bin/pildriver.py	/^        from PIL import ImageEnhance$/;"	kind:namespace	line:451
+ImageEnhance	../bin/pildriver.py	/^        from PIL import ImageEnhance$/;"	kind:namespace	line:462
+ImageEnhance	../bin/pildriver.py	/^        from PIL import ImageEnhance$/;"	kind:namespace	line:473
+ImageFilter	../bin/pildriver.py	/^        from PIL import ImageFilter$/;"	kind:namespace	line:210
+ImageFont	../mailer_git.py	/^from PIL import ImageFont$/;"	kind:namespace	line:16
+ImageTk	../bin/enhancer.py	/^from PIL import Image, ImageTk, ImageEnhance$/;"	kind:namespace	line:17
+ImageTk	../bin/painter.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:19
+ImageTk	../bin/player.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:16
+ImageTk	../bin/thresholder.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:17
+ImageTk	../bin/viewer.py	/^from PIL import Image, ImageTk$/;"	kind:namespace	line:16
+Interval	../bin/explode.py	/^class Interval(object):$/;"	kind:class	line:16
+MAXLINES	../lib/python3.5/site.py	/^    MAXLINES = 23$/;"	kind:variable	line:412
+MAX_LEN_PLOT	../utils.py	/^MAX_LEN_PLOT = 314$/;"	kind:variable	line:66
+MOVIE_METADATA_URL	../mailer_git.py	/^MOVIE_METADATA_URL = 'http:\/\/api.vkino.com.ua\/catalog-cinema\/shows\/{}.xml'    $/;"	kind:variable	line:46
+Mailer	../mailer_git.py	/^class Mailer():$/;"	kind:class	line:117
+MinMaxScaler	../recommender.py	/^from sklearn.preprocessing import MinMaxScaler$/;"	kind:namespace	line:16
+MinMaxScaler	../recommender_.py	/^from sklearn.preprocessing import MinMaxScaler$/;"	kind:namespace	line:10
+MinMaxScaler	../recommender_.py	/^from sklearn.preprocessing import MinMaxScaler$/;"	kind:namespace	line:16
+MinMaxScaler	../recommender_old_PK.py	/^from sklearn.preprocessing import MinMaxScaler$/;"	kind:namespace	line:16
+MinMaxScaler	../recommender_old_no_PK.py	/^from sklearn.preprocessing import MinMaxScaler$/;"	kind:namespace	line:16
+ModuleType	../lib/python3.5/site.py	/^    ModuleType = type(os)$/;"	kind:variable	line:90
+Movie	../database.py	/^class Movie(db.Model):$/;"	kind:class	line:32
+Movie	../database_no_pk.py	/^class Movie(db.Model):$/;"	kind:class	line:27
+Movie	../test_vs.py	/^from database import Movie$/;"	kind:namespace	line:1
+MovieRecommendation	../database.py	/^class MovieRecommendation(db.Model):$/;"	kind:class	line:112
+MovieRecommendation	../database_no_pk.py	/^class MovieRecommendation(db.Model):$/;"	kind:class	line:107
+NUMBER_FONT_PATH	../mailer_git.py	/^NUMBER_FONT_PATH = "fonts\/ariblk.ttf"$/;"	kind:variable	line:44
+PIL	../mailer_git.py	/^import PIL$/;"	kind:namespace	line:14
+PILDriver	../bin/pildriver.py	/^class PILDriver(object):$/;"	kind:class	line:56
+PLAIN_TEXT	../mailer_git.py	/^PLAIN_TEXT = 'Вам сподобається'$/;"	kind:variable	line:32
+POSTERS_FOLDER	../mailer_git.py	/^POSTERS_FOLDER = 'static' # путь, где должно лежать финальное фото $/;"	kind:variable	line:26
+PREFIXES	../lib/python3.5/site.py	/^PREFIXES = [sys.prefix, sys.exec_prefix]$/;"	kind:variable	line:78
+PSDraw	../bin/pilprint.py	/^from PIL import PSDraw$/;"	kind:namespace	line:23
+PaintCanvas	../bin/painter.py	/^class PaintCanvas(tkinter.Canvas):$/;"	kind:class	line:25
+PcfFontFile	../bin/pilfont.py	/^from PIL import PcfFontFile$/;"	kind:namespace	line:20
+PlanetaKino	../database.py	/^class PlanetaKino(db.Model):$/;"	kind:class	line:158
+ProxyFix	../database_no_pk.py	/^from werkzeug.contrib.fixers import ProxyFix$/;"	kind:namespace	line:3
+Quitter	../lib/python3.5/site.py	/^    class Quitter(object):$/;"	kind:class	line:391
+Recommendation	../database.py	/^class Recommendation(db.Model):$/;"	kind:class	line:94
+Recommendation	../database_no_pk.py	/^class Recommendation(db.Model):$/;"	kind:class	line:89
+Recommender	../app.py	/^from recommender import Recommender $/;"	kind:namespace	line:16
+Recommender	../app_.py	/^from recommender import Recommender $/;"	kind:namespace	line:16
+Recommender	../planetakino_recommender.py	/^from recommender import Recommender$/;"	kind:namespace	line:16
+Recommender	../recommender.py	/^class Recommender():$/;"	kind:class	line:119
+Recommender	../recommender_.py	/^class Recommender():$/;"	kind:class	line:119
+Recommender	../recommender_old_PK.py	/^class Recommender():$/;"	kind:class	line:119
+Recommender	../recommender_old_no_PK.py	/^class Recommender():$/;"	kind:class	line:119
+Response	../app.py	/^from flask import request, jsonify, Response $/;"	kind:namespace	line:17
+Response	../app_.py	/^from flask import request, jsonify, Response $/;"	kind:namespace	line:17
+SEARCH_PATH	../db_update.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+SEARCH_PATH	../db_update_no_pk.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+SEARCH_PATH	../db_update_pk_wrong.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+SOURCE_URL	../mailer_git.py	/^SOURCE_URL = 'https:\/\/api.movieterra.com'$/;"	kind:variable	line:25
+SQLAlchemy	../database.py	/^from flask_sqlalchemy import SQLAlchemy$/;"	kind:namespace	line:2
+SQLAlchemy	../database_no_pk.py	/^from flask_sqlalchemy import SQLAlchemy$/;"	kind:namespace	line:2
+SUBJECT	../mailer_git.py	/^SUBJECT = 'Вам сподобається'$/;"	kind:variable	line:31
+TEMPLATES_PATH	../mailer_git.py	/^TEMPLATES_PATH = 'templates'$/;"	kind:variable	line:27
+TEMPLATE_ENVIRONMENT	../mailer_git.py	/^TEMPLATE_ENVIRONMENT = Environment(autoescape = False, loader = FileSystemLoader(TEMPLATES_PATH), trim_blocks = False)$/;"	kind:variable	line:70
+TEMPLATE_NAME	../mailer_git.py	/^TEMPLATE_NAME = 'vkino_template.html'$/;"	kind:variable	line:28
+Ticket	../database.py	/^class Ticket(db.Model):$/;"	kind:class	line:126
+Ticket	../database_no_pk.py	/^class Ticket(db.Model):$/;"	kind:class	line:121
+UI	../bin/player.py	/^class UI(tkinter.Label):$/;"	kind:class	line:22
+UI	../bin/thresholder.py	/^class UI(tkinter.Frame):$/;"	kind:class	line:23
+UI	../bin/viewer.py	/^class UI(tkinter.Label):$/;"	kind:class	line:22
+USER_BASE	../lib/python3.5/site.py	/^USER_BASE = None$/;"	kind:variable	line:84
+USER_SITE	../lib/python3.5/site.py	/^USER_SITE = None$/;"	kind:variable	line:83
+Update	../db_update.py	/^class Update():$/;"	kind:class	line:294
+Update	../db_update_no_pk.py	/^class Update():$/;"	kind:class	line:294
+Update	../db_update_pk_wrong.py	/^class Update():$/;"	kind:class	line:294
+User	../database.py	/^class User(db.Model):$/;"	kind:class	line:70
+User	../database_no_pk.py	/^class User(db.Model):$/;"	kind:class	line:65
+VERSION	../bin/pilfont.py	/^VERSION = "0.4"$/;"	kind:variable	line:22
+VERSION	../bin/pilprint.py	/^VERSION = "pilprint 0.3\/2003-05-05"$/;"	kind:variable	line:20
+VKINO_LOGIN	../mailer_git.py	/^VKINO_LOGIN = ''$/;"	kind:variable	line:39
+VKINO_PASSWORD	../mailer_git.py	/^VKINO_PASSWORD = ''$/;"	kind:variable	line:40
+Vkino	../database.py	/^class Vkino(db.Model):$/;"	kind:class	line:143
+Vkino	../database_no_pk.py	/^class Vkino(db.Model):$/;"	kind:class	line:138
+_Helper	../lib/python3.5/site.py	/^class _Helper(object):$/;"	kind:class	line:494
+_Printer	../lib/python3.5/site.py	/^class _Printer(object):$/;"	kind:class	line:408
+__call__	../lib/python3.5/site.py	/^        def __call__(self, code=None):$/;"	kind:member	line:396
+__call__	../lib/python3.5/site.py	/^    def __call__(self):$/;"	kind:member	line:449
+__call__	../lib/python3.5/site.py	/^    def __call__(self, *args, **kwds):$/;"	kind:member	line:503
+__getitem__	../bin/explode.py	/^    def __getitem__(self, index):$/;"	kind:member	line:44
+__init__	../bin/enhancer.py	/^    def __init__(self, master, image, name, enhancer, lo, hi):$/;"	kind:member	line:24
+__init__	../bin/explode.py	/^    def __init__(self, interval="0"):$/;"	kind:member	line:18
+__init__	../bin/painter.py	/^    def __init__(self, master, image):$/;"	kind:member	line:26
+__init__	../bin/player.py	/^    def __init__(self, master, im):$/;"	kind:member	line:24
+__init__	../bin/thresholder.py	/^    def __init__(self, master, im, value=128):$/;"	kind:member	line:24
+__init__	../bin/viewer.py	/^    def __init__(self, master, im):$/;"	kind:member	line:24
+__init__	../database.py	/^                 director, novel,actors,budget,genres,kwords,runtime, title):$/;"	kind:member	line:51
+__init__	../database.py	/^    def __init__(self, agent_name, access_key, created_at):$/;"	kind:member	line:24
+__init__	../database.py	/^    def __init__(self, created_at, updated_at, agent_user_id, agent_id, name, email):$/;"	kind:member	line:81
+__init__	../database.py	/^    def __init__(self, planetakino_id, tmdb_fk_id, is_actual):$/;"	kind:member	line:165
+__init__	../database.py	/^    def __init__(self, recommendation_id, movie_id, created_at):$/;"	kind:member	line:121
+__init__	../database.py	/^    def __init__(self, user_id, agent_id, created_at):$/;"	kind:member	line:103
+__init__	../database.py	/^    def __init__(self, user_id, movie_id, created_at, updated_at):$/;"	kind:member	line:136
+__init__	../database.py	/^    def __init__(self, vkino_id, tmdb_fk_id, is_actual):$/;"	kind:member	line:152
+__init__	../database_no_pk.py	/^                 director, novel,actors,budget,genres,kwords,runtime, title):$/;"	kind:member	line:46
+__init__	../database_no_pk.py	/^    def __init__(self, agent_name, access_key, created_at):$/;"	kind:member	line:19
+__init__	../database_no_pk.py	/^    def __init__(self, created_at, updated_at, agent_user_id, agent_id, name, email):$/;"	kind:member	line:76
+__init__	../database_no_pk.py	/^    def __init__(self, recommendation_id, movie_id, created_at):$/;"	kind:member	line:116
+__init__	../database_no_pk.py	/^    def __init__(self, user_id, agent_id, created_at):$/;"	kind:member	line:98
+__init__	../database_no_pk.py	/^    def __init__(self, user_id, movie_id, created_at, updated_at):$/;"	kind:member	line:131
+__init__	../database_no_pk.py	/^    def __init__(self, vkino_id, tmdb_fk_id, is_actual):$/;"	kind:member	line:147
+__init__	../db_update.py	/^    def __init__(self, agent_name):$/;"	kind:member	line:295
+__init__	../db_update_no_pk.py	/^    def __init__(self, agent_name):$/;"	kind:member	line:295
+__init__	../db_update_pk_wrong.py	/^    def __init__(self, agent_name):$/;"	kind:member	line:295
+__init__	../lib/python3.5/site.py	/^        def __init__(self, name):$/;"	kind:member	line:392
+__init__	../lib/python3.5/site.py	/^    def __init__(self, name, data, files=(), dirs=()):$/;"	kind:member	line:414
+__init__	../mailer_git.py	/^    def __init__(self, user_id,movies, email = None):$/;"	kind:member	line:119
+__init__	../recommender.py	/^    def __init__(self, tmdb_idx, table_name, column_name, user_id):$/;"	kind:member	line:120
+__init__	../recommender_.py	/^    def __init__(self, tmdb_idx, table_name, column_name, user_id):$/;"	kind:member	line:120
+__init__	../recommender_old_PK.py	/^    def __init__(self, tmdb_idx, table_name, column_name, user_id):$/;"	kind:member	line:120
+__init__	../recommender_old_no_PK.py	/^    def __init__(self, tmdb_idx, table_name, column_name, user_id):$/;"	kind:member	line:120
+__init__.py	../lib/python3.5/distutils/__init__.py	1;"	kind:file	line:1
+__repr__	../database.py	/^    def __repr__(self):$/;"	kind:member	line:108
+__repr__	../database.py	/^    def __repr__(self):$/;"	kind:member	line:29
+__repr__	../database.py	/^    def __repr__(self):$/;"	kind:member	line:67
+__repr__	../database.py	/^    def __repr__(self):$/;"	kind:member	line:89
+__repr__	../database_no_pk.py	/^    def __repr__(self):$/;"	kind:member	line:103
+__repr__	../database_no_pk.py	/^    def __repr__(self):$/;"	kind:member	line:24
+__repr__	../database_no_pk.py	/^    def __repr__(self):$/;"	kind:member	line:62
+__repr__	../database_no_pk.py	/^    def __repr__(self):$/;"	kind:member	line:84
+__repr__	../lib/python3.5/site.py	/^        def __repr__(self):$/;"	kind:member	line:394
+__repr__	../lib/python3.5/site.py	/^    def __repr__(self):$/;"	kind:member	line:442
+__repr__	../lib/python3.5/site.py	/^    def __repr__(self):$/;"	kind:member	line:500
+__revision__	../lib/python3.5/distutils/__init__.py	/^        __revision__ = real_distutils.__revision__$/;"	kind:variable	line:20
+__setup	../lib/python3.5/site.py	/^    def __setup(self):$/;"	kind:member	line:421
+__tablename__	../database.py	/^    __tablename__ = 'agents'$/;"	kind:variable	line:17
+__tablename__	../database.py	/^    __tablename__ = 'movies'$/;"	kind:variable	line:34
+__tablename__	../database.py	/^    __tablename__ = 'movies_recommendations';$/;"	kind:variable	line:114
+__tablename__	../database.py	/^    __tablename__ = 'planetakino_movies'$/;"	kind:variable	line:159
+__tablename__	../database.py	/^    __tablename__ = 'recommendations'$/;"	kind:variable	line:96
+__tablename__	../database.py	/^    __tablename__ = 'tickets'$/;"	kind:variable	line:128
+__tablename__	../database.py	/^    __tablename__ = 'users'$/;"	kind:variable	line:71
+__tablename__	../database.py	/^    __tablename__ = 'vkino_movies'$/;"	kind:variable	line:145
+__tablename__	../database_no_pk.py	/^    __tablename__ = 'agents'$/;"	kind:variable	line:12
+__tablename__	../database_no_pk.py	/^    __tablename__ = 'movies'$/;"	kind:variable	line:29
+__tablename__	../database_no_pk.py	/^    __tablename__ = 'movies_recommendations';$/;"	kind:variable	line:109
+__tablename__	../database_no_pk.py	/^    __tablename__ = 'recommendations'$/;"	kind:variable	line:91
+__tablename__	../database_no_pk.py	/^    __tablename__ = 'tickets'$/;"	kind:variable	line:123
+__tablename__	../database_no_pk.py	/^    __tablename__ = 'users'$/;"	kind:variable	line:66
+__tablename__	../database_no_pk.py	/^    __tablename__ = 'vkino_movies'$/;"	kind:variable	line:140
+__version__	../lib/python3.5/distutils/__init__.py	/^    __version__ = real_distutils.__version__$/;"	kind:variable	line:23
+_init_pathinfo	../lib/python3.5/site.py	/^def _init_pathinfo():$/;"	kind:function	line:143
+_is_64bit	../lib/python3.5/site.py	/^_is_64bit = (getattr(sys, 'maxsize', None) or getattr(sys, 'maxint')) > 2**32$/;"	kind:variable	line:86
+_is_pypy	../lib/python3.5/site.py	/^_is_pypy = hasattr(sys, 'pypy_version_info')$/;"	kind:variable	line:87
+_script	../lib/python3.5/site.py	/^def _script():$/;"	kind:function	line:705
+a	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+a	../test_vs.py	/^a = Movie.query.filter_by(tmdb_id = 597).first()$/;"	kind:variable	line:2
+abort	../app.py	/^from flask import  abort, render_template_string, send_from_directory$/;"	kind:namespace	line:18
+abort	../app_.py	/^from flask import  abort, render_template_string, send_from_directory$/;"	kind:namespace	line:18
+abs__file__	../lib/python3.5/site.py	/^def abs__file__():$/;"	kind:function	line:100
+accessKeyRequired	../app.py	/^def accessKeyRequired(not_in_db = False):$/;"	kind:function	line:29
+accessKeyRequired	../app_.py	/^def accessKeyRequired(not_in_db = False):$/;"	kind:function	line:29
+access_key	../database.py	/^    access_key = db.Column(db.String(255))$/;"	kind:variable	line:21
+access_key	../database_no_pk.py	/^    access_key = db.Column(db.String(255))$/;"	kind:variable	line:16
+activate_this.py	../bin/activate_this.py	1;"	kind:file	line:1
+actors	../database.py	/^    actors = db.Column(db.String(255))$/;"	kind:variable	line:43
+actors	../database_no_pk.py	/^    actors = db.Column(db.String(255))$/;"	kind:variable	line:38
+addbuilddir	../lib/python3.5/site.py	/^def addbuilddir():$/;"	kind:function	line:133
+addpackage	../lib/python3.5/site.py	/^def addpackage(sitedir, name, known_paths):$/;"	kind:function	line:155
+addsitedir	../lib/python3.5/site.py	/^def addsitedir(sitedir, known_paths=None):$/;"	kind:function	line:186
+addsitepackages	../lib/python3.5/site.py	/^def addsitepackages(known_paths, sys_prefix=sys.prefix, exec_prefix=sys.exec_prefix):$/;"	kind:function	line:209
+addusersitepackages	../lib/python3.5/site.py	/^def addusersitepackages(known_paths):$/;"	kind:function	line:309
+agent_db_update	../db_update.py	/^agent_db_update = Update(AGENT_NAME)$/;"	kind:variable	line:406
+agent_db_update	../db_update_no_pk.py	/^agent_db_update = Update(AGENT_NAME)$/;"	kind:variable	line:406
+agent_db_update	../db_update_pk_wrong.py	/^agent_db_update = Update(AGENT_NAME)$/;"	kind:variable	line:420
+agent_id	../database.py	/^    agent_id = db.Column(db.Integer)$/;"	kind:variable	line:101
+agent_id	../database.py	/^    agent_id = db.Column(db.Integer)$/;"	kind:variable	line:77
+agent_id	../database_no_pk.py	/^    agent_id = db.Column(db.Integer)$/;"	kind:variable	line:72
+agent_id	../database_no_pk.py	/^    agent_id = db.Column(db.Integer)$/;"	kind:variable	line:96
+agent_name	../database.py	/^    agent_name = db.Column(db.String(255))$/;"	kind:variable	line:20
+agent_name	../database_no_pk.py	/^    agent_name = db.Column(db.String(255))$/;"	kind:variable	line:15
+agent_premiere_idx	../planetakino_recommender.py	/^agent_premiere_idx = [movie['pk_id'] for movie in result]$/;"	kind:variable	line:31
+agent_user_id	../database.py	/^    agent_user_id = db.Column(db.Text)$/;"	kind:variable	line:76
+agent_user_id	../database_no_pk.py	/^    agent_user_id = db.Column(db.Text)$/;"	kind:variable	line:71
+agents_cleaning_data	../db_update.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+agents_cleaning_data	../db_update_no_pk.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+agents_cleaning_data	../db_update_pk_wrong.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+agents_cleaning_data	../utils.py	/^agents_cleaning_data = {$/;"	kind:variable	line:24
+aliasmbcs	../lib/python3.5/site.py	/^def aliasmbcs():$/;"	kind:function	line:510
+all_genres	../recommender.py	/^all_genres = np.array([$/;"	kind:variable	line:23
+all_genres	../recommender_.py	/^all_genres = np.array([$/;"	kind:variable	line:23
+all_genres	../recommender_old_PK.py	/^all_genres = np.array([$/;"	kind:variable	line:23
+all_genres	../recommender_old_no_PK.py	/^all_genres = np.array([$/;"	kind:variable	line:23
+app	../database.py	/^app = Flask(__name__)$/;"	kind:variable	line:6
+app	../database_no_pk.py	/^app = Flask(__name__)$/;"	kind:variable	line:5
+app.py	../app.py	1;"	kind:file	line:1
+app_.py	../app_.py	1;"	kind:file	line:1
+argparse	../db_update.py	/^import argparse$/;"	kind:namespace	line:11
+argparse	../db_update_no_pk.py	/^import argparse$/;"	kind:namespace	line:11
+argparse	../db_update_pk_wrong.py	/^import argparse$/;"	kind:namespace	line:11
+argparse	../mailer_git.py	/^import argparse$/;"	kind:namespace	line:12
+argparse	../planetakino_recommender.py	/^import argparse$/;"	kind:namespace	line:13
+args	../db_update.py	/^args = parser.parse_args()$/;"	kind:variable	line:14
+args	../db_update_no_pk.py	/^args = parser.parse_args()$/;"	kind:variable	line:14
+args	../db_update_pk_wrong.py	/^args = parser.parse_args()$/;"	kind:variable	line:14
+args	../mailer_git.py	/^args = parser.parse_args()$/;"	kind:variable	line:21
+args	../planetakino_recommender.py	/^args = parser.parse_args()$/;"	kind:variable	line:20
+badRequest	../app.py	/^def badRequest(user = False, data = ''):$/;"	kind:function	line:40
+badRequest	../app_.py	/^def badRequest(user = False, data = ''):$/;"	kind:function	line:40
+base	../bin/activate_this.py	/^base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:18
+basestring	../lib/python3.5/distutils/__init__.py	/^    basestring = str$/;"	kind:variable	line:30
+budget	../database.py	/^    budget = db.Column(db.Integer)$/;"	kind:variable	line:44
+budget	../database_no_pk.py	/^    budget = db.Column(db.Integer)$/;"	kind:variable	line:39
+build_ext	../lib/python3.5/distutils/__init__.py	/^    class build_ext(old_build_ext):$/;"	kind:class	line:37
+build_ext_module	../lib/python3.5/distutils/__init__.py	/^    from distutils.command import build_ext as build_ext_module $/;"	kind:namespace	line:47
+builtins	../lib/python3.5/site.py	/^    import __builtin__ as builtins$/;"	kind:namespace	line:69
+builtins	../lib/python3.5/site.py	/^    import builtins$/;"	kind:namespace	line:71
+can	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+check_enableusersite	../lib/python3.5/site.py	/^def check_enableusersite():$/;"	kind:function	line:285
+check_updates	../db_update.py	/^    def check_updates(self):$/;"	kind:member	line:300
+check_updates	../db_update_no_pk.py	/^    def check_updates(self):$/;"	kind:member	line:300
+check_updates	../db_update_pk_wrong.py	/^    def check_updates(self):$/;"	kind:member	line:300
+codecs	../lib/python3.5/site.py	/^        import locale, codecs$/;"	kind:namespace	line:515
+collect_info	../db_update.py	/^def collect_info(tmdb_id):$/;"	kind:function	line:37
+collect_info	../db_update_no_pk.py	/^def collect_info(tmdb_id):$/;"	kind:function	line:37
+collect_info	../db_update_pk_wrong.py	/^def collect_info(tmdb_id):$/;"	kind:function	line:37
+compute_idf	../recommender.py	/^def compute_idf(word, corpus):$/;"	kind:function	line:73
+compute_idf	../recommender_.py	/^def compute_idf(word, corpus):$/;"	kind:function	line:73
+compute_idf	../recommender_old_PK.py	/^def compute_idf(word, corpus):$/;"	kind:function	line:73
+compute_idf	../recommender_old_no_PK.py	/^def compute_idf(word, corpus):$/;"	kind:function	line:73
+compute_tf	../recommender.py	/^def compute_tf(kwords):$/;"	kind:function	line:67
+compute_tf	../recommender_.py	/^def compute_tf(kwords):$/;"	kind:function	line:67
+compute_tf	../recommender_old_PK.py	/^def compute_tf(kwords):$/;"	kind:function	line:67
+compute_tf	../recommender_old_no_PK.py	/^def compute_tf(kwords):$/;"	kind:function	line:67
+convert	../bin/pilconvert.py	/^convert = None$/;"	kind:variable	line:53
+cosine_similarity	../recommender.py	/^from sklearn.metrics.pairwise import cosine_similarity$/;"	kind:namespace	line:11
+cosine_similarity	../recommender_.py	/^from sklearn.metrics.pairwise import cosine_similarity$/;"	kind:namespace	line:11
+cosine_similarity	../recommender_old_PK.py	/^from sklearn.metrics.pairwise import cosine_similarity$/;"	kind:namespace	line:11
+cosine_similarity	../recommender_old_no_PK.py	/^from sklearn.metrics.pairwise import cosine_similarity$/;"	kind:namespace	line:11
+create_poster	../mailer_git.py	/^def create_poster(img_poster, month, day, filename):$/;"	kind:function	line:75
+create_user	../mailer_git.py	/^    def create_user(self):$/;"	kind:member	line:126
+created_at	../database.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:119
+created_at	../database.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:133
+created_at	../database.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:22
+created_at	../database.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:37
+created_at	../database.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:74
+created_at	../database.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:99
+created_at	../database_no_pk.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:114
+created_at	../database_no_pk.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:128
+created_at	../database_no_pk.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:17
+created_at	../database_no_pk.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:32
+created_at	../database_no_pk.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:69
+created_at	../database_no_pk.py	/^    created_at = db.Column(db.DateTime)$/;"	kind:variable	line:94
+csv	../mailer_git.py	/^import csv$/;"	kind:namespace	line:3
+database.py	../database.py	1;"	kind:file	line:1
+database_no_pk.py	../database_no_pk.py	1;"	kind:file	line:1
+datefmt	../app.py	/^   datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:5
+datefmt	../app_.py	/^    datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:5
+datefmt	../db_update.py	/^    datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:5
+datefmt	../db_update_no_pk.py	/^    datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:5
+datefmt	../db_update_pk_wrong.py	/^    datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:5
+datefmt	../planetakino_recommender.py	/^    datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:8
+datefmt	../recommender.py	/^datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:3
+datefmt	../recommender_old_PK.py	/^datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:3
+datefmt	../recommender_old_no_PK.py	/^datefmt = '%d\/%m\/%Y %H:%M:%S',$/;"	kind:variable	line:3
+datetime	../app.py	/^from datetime import datetime$/;"	kind:namespace	line:15
+datetime	../app_.py	/^from datetime import datetime$/;"	kind:namespace	line:15
+datetime	../db_update.py	/^from datetime import datetime$/;"	kind:namespace	line:19
+datetime	../db_update_no_pk.py	/^from datetime import datetime$/;"	kind:namespace	line:19
+datetime	../db_update_pk_wrong.py	/^from datetime import datetime$/;"	kind:namespace	line:19
+db	../database.py	/^db = SQLAlchemy(app)$/;"	kind:variable	line:14
+db	../database_no_pk.py	/^db = SQLAlchemy(app)$/;"	kind:variable	line:9
+db_update.py	../db_update.py	1;"	kind:file	line:1
+db_update_no_pk.py	../db_update_no_pk.py	1;"	kind:file	line:1
+db_update_pk_wrong.py	../db_update_pk_wrong.py	1;"	kind:file	line:1
+description	../bin/pilprint.py	/^def description(filepath, image):$/;"	kind:function	line:28
+director	../database.py	/^    director = db.Column(db.String(255))$/;"	kind:variable	line:41
+director	../database_no_pk.py	/^    director = db.Column(db.String(255))$/;"	kind:variable	line:36
+dirname	../lib/python3.5/distutils/__init__.py	/^dirname = os.path.dirname$/;"	kind:variable	line:9
+dist	../lib/python3.5/distutils/__init__.py	/^from distutils import dist, sysconfig$/;"	kind:namespace	line:25
+distutils_path	../lib/python3.5/distutils/__init__.py	/^distutils_path = os.path.join(os.path.dirname(opcode.__file__), 'distutils')$/;"	kind:variable	line:11
+do_add	../bin/pildriver.py	/^    def do_add(self):$/;"	kind:member	line:409
+do_blend	../bin/pildriver.py	/^    def do_blend(self):$/;"	kind:member	line:132
+do_brightness	../bin/pildriver.py	/^    def do_brightness(self):$/;"	kind:member	line:457
+do_clear	../bin/pildriver.py	/^    def do_clear(self):$/;"	kind:member	line:81
+do_color	../bin/pildriver.py	/^    def do_color(self):$/;"	kind:member	line:435
+do_composite	../bin/pildriver.py	/^    def do_composite(self):$/;"	kind:member	line:142
+do_contrast	../bin/pildriver.py	/^    def do_contrast(self):$/;"	kind:member	line:446
+do_convert	../bin/pildriver.py	/^    def do_convert(self):$/;"	kind:member	line:166
+do_copy	../bin/pildriver.py	/^    def do_copy(self):$/;"	kind:member	line:175
+do_crop	../bin/pildriver.py	/^    def do_crop(self):$/;"	kind:member	line:182
+do_darker	../bin/pildriver.py	/^    def do_darker(self):$/;"	kind:member	line:369
+do_difference	../bin/pildriver.py	/^    def do_difference(self):$/;"	kind:member	line:379
+do_draft	../bin/pildriver.py	/^    def do_draft(self):$/;"	kind:member	line:195
+do_dup	../bin/pildriver.py	/^    def do_dup(self):$/;"	kind:member	line:95
+do_filter	../bin/pildriver.py	/^    def do_filter(self):$/;"	kind:member	line:205
+do_format	../bin/pildriver.py	/^    def do_format(self):$/;"	kind:member	line:326
+do_getbbox	../bin/pildriver.py	/^    def do_getbbox(self):$/;"	kind:member	line:215
+do_getextrema	../bin/pildriver.py	/^    def do_getextrema(self):$/;"	kind:member	line:226
+do_invert	../bin/pildriver.py	/^    def do_invert(self):$/;"	kind:member	line:351
+do_lighter	../bin/pildriver.py	/^    def do_lighter(self):$/;"	kind:member	line:359
+do_merge	../bin/pildriver.py	/^    def do_merge(self):$/;"	kind:member	line:152
+do_mode	../bin/pildriver.py	/^    def do_mode(self):$/;"	kind:member	line:333
+do_multiply	../bin/pildriver.py	/^    def do_multiply(self):$/;"	kind:member	line:389
+do_new	../bin/pildriver.py	/^    def do_new(self):$/;"	kind:member	line:115
+do_offset	../bin/pildriver.py	/^    def do_offset(self):$/;"	kind:member	line:235
+do_open	../bin/pildriver.py	/^    def do_open(self):$/;"	kind:member	line:125
+do_paste	../bin/pildriver.py	/^    def do_paste(self):$/;"	kind:member	line:245
+do_pop	../bin/pildriver.py	/^    def do_pop(self):$/;"	kind:member	line:88
+do_resize	../bin/pildriver.py	/^    def do_resize(self):$/;"	kind:member	line:261
+do_rotate	../bin/pildriver.py	/^    def do_rotate(self):$/;"	kind:member	line:271
+do_save	../bin/pildriver.py	/^    def do_save(self):$/;"	kind:member	line:280
+do_save2	../bin/pildriver.py	/^    def do_save2(self):$/;"	kind:member	line:289
+do_screen	../bin/pildriver.py	/^    def do_screen(self):$/;"	kind:member	line:399
+do_sharpness	../bin/pildriver.py	/^    def do_sharpness(self):$/;"	kind:member	line:468
+do_show	../bin/pildriver.py	/^    def do_show(self):$/;"	kind:member	line:299
+do_size	../bin/pildriver.py	/^    def do_size(self):$/;"	kind:member	line:340
+do_subtract	../bin/pildriver.py	/^    def do_subtract(self):$/;"	kind:member	line:421
+do_swap	../bin/pildriver.py	/^    def do_swap(self):$/;"	kind:member	line:106
+do_thumbnail	../bin/pildriver.py	/^    def do_thumbnail(self):$/;"	kind:member	line:306
+do_transpose	../bin/pildriver.py	/^    def do_transpose(self):$/;"	kind:member	line:315
+do_verbose	../bin/pildriver.py	/^    def do_verbose(self):$/;"	kind:member	line:60
+driver	../bin/pildriver.py	/^    driver = PILDriver()$/;"	kind:variable	line:506
+email	../database.py	/^    email = db.Column(db.String(255))$/;"	kind:variable	line:79
+email	../database_no_pk.py	/^    email = db.Column(db.String(255))$/;"	kind:variable	line:74
+email_api_method	../mailer_git.py	/^email_api_method = 'https:\/\/esputnik.com\/api\/v1\/message\/email'$/;"	kind:variable	line:37
+encodings	../lib/python3.5/site.py	/^                import encodings$/;"	kind:namespace	line:521
+enhancer.py	../bin/enhancer.py	1;"	kind:file	line:1
+error_movies	../db_update.py	/^error_movies = []$/;"	kind:variable	line:76
+error_movies	../db_update_no_pk.py	/^error_movies = []$/;"	kind:variable	line:76
+error_movies	../db_update_pk_wrong.py	/^error_movies = []$/;"	kind:variable	line:76
+execsitecustomize	../lib/python3.5/site.py	/^def execsitecustomize():$/;"	kind:function	line:545
+execusercustomize	../lib/python3.5/site.py	/^def execusercustomize():$/;"	kind:function	line:660
+execute	../bin/pildriver.py	/^    def execute(self, list):$/;"	kind:member	line:481
+exists	../lib/python3.5/site.py	/^        def exists(path):$/;"	kind:function	line:726
+exit_with_usage	../bin/python-config	/^def exit_with_usage(code=1):$/;"	kind:function	line:17
+explode.py	../bin/explode.py	1;"	kind:file	line:1
+f	../app.py	/^def f():$/;"	kind:function	line:53
+f	../app_.py	/^def f():$/;"	kind:function	line:53
+filename	../app.py	/^    filename = 'log\/app.log'$/;"	kind:variable	line:6
+filename	../app_.py	/^    filename = 'log\/app.log'$/;"	kind:variable	line:6
+filename	../bin/player.py	/^    filename = sys.argv[1]$/;"	kind:variable	line:77
+filename	../bin/viewer.py	/^    filename = sys.argv[1]$/;"	kind:variable	line:46
+filename	../db_update.py	/^    filename = 'log\/premieres_update.log'$/;"	kind:variable	line:6
+filename	../db_update_no_pk.py	/^    filename = 'log\/premieres_update.log'$/;"	kind:variable	line:6
+filename	../db_update_pk_wrong.py	/^    filename = 'log\/premieres_update.log'$/;"	kind:variable	line:6
+filename	../planetakino_recommender.py	/^    filename = 'log\/planetakino_recommender.log'$/;"	kind:variable	line:9
+filename	../recommender.py	/^filename = 'log\/recommender.log')$/;"	kind:variable	line:4
+filename	../recommender_old_PK.py	/^filename = 'log\/recommender.log')$/;"	kind:variable	line:4
+filename	../recommender_old_no_PK.py	/^filename = 'log\/recommender.log')$/;"	kind:variable	line:4
+files	../bin/pilfont.py	/^    files = files + glob.glob(f)$/;"	kind:variable	line:35
+files	../bin/pilfont.py	/^files = []$/;"	kind:variable	line:33
+finalize_options	../lib/python3.5/distutils/__init__.py	/^        def finalize_options (self):$/;"	kind:member	line:38
+find	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+find_config_files	../lib/python3.5/distutils/__init__.py	/^def find_config_files(self):$/;"	kind:function	line:53
+fixclasspath	../lib/python3.5/site.py	/^def fixclasspath():$/;"	kind:function	line:646
+flatten	../db_update.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+flatten	../db_update_no_pk.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+flatten	../db_update_pk_wrong.py	/^from utils import API_KEY, BASE_PATH, AGENTS_URL_DATA, SEARCH_PATH, agents_cleaning_data, flatten$/;"	kind:namespace	line:28
+flatten	../recommender.py	/^flatten = lambda l: [item for sublist in l for item in sublist]$/;"	kind:variable	line:110
+flatten	../recommender.py	/^from utils import flatten$/;"	kind:namespace	line:21
+flatten	../recommender_.py	/^flatten = lambda l: [item for sublist in l for item in sublist]$/;"	kind:variable	line:110
+flatten	../recommender_.py	/^from utils import flatten$/;"	kind:namespace	line:21
+flatten	../recommender_old_PK.py	/^flatten = lambda l: [item for sublist in l for item in sublist]$/;"	kind:variable	line:110
+flatten	../recommender_old_PK.py	/^from utils import flatten$/;"	kind:namespace	line:21
+flatten	../recommender_old_no_PK.py	/^flatten = lambda l: [item for sublist in l for item in sublist]$/;"	kind:variable	line:110
+flatten	../recommender_old_no_PK.py	/^from utils import flatten$/;"	kind:namespace	line:21
+flatten	../utils.py	/^flatten = lambda l: [item for sublist in l for item in sublist]$/;"	kind:variable	line:46
+force_global_eggs_after_local_site_packages	../lib/python3.5/site.py	/^def force_global_eggs_after_local_site_packages():$/;"	kind:function	line:627
+form_characteristics	../mailer_git.py	/^    def form_characteristics(self):$/;"	kind:member	line:141
+form_characteristics	../recommender.py	/^    def form_characteristics(self): $/;"	kind:member	line:135
+form_characteristics	../recommender_.py	/^    def form_characteristics(self): $/;"	kind:member	line:135
+form_characteristics	../recommender_old_PK.py	/^    def form_characteristics(self):$/;"	kind:member	line:135
+form_characteristics	../recommender_old_no_PK.py	/^    def form_characteristics(self): $/;"	kind:member	line:135
+form_kwords_sentences	../recommender.py	/^def form_kwords_sentences(input_movies, model):$/;"	kind:function	line:55
+form_kwords_sentences	../recommender_.py	/^def form_kwords_sentences(input_movies, model):$/;"	kind:function	line:55
+form_kwords_sentences	../recommender_old_PK.py	/^def form_kwords_sentences(input_movies, model):$/;"	kind:function	line:55
+form_kwords_sentences	../recommender_old_no_PK.py	/^def form_kwords_sentences(input_movies, model):$/;"	kind:function	line:55
+format	../app.py	/^    format = '%(asctime)s %(message)s',$/;"	kind:variable	line:4
+format	../app_.py	/^    format = '%(asctime)s %(message)s',$/;"	kind:variable	line:4
+format	../db_update.py	/^    format = '%(asctime)s %(message)s',$/;"	kind:variable	line:4
+format	../db_update_no_pk.py	/^    format = '%(asctime)s %(message)s',$/;"	kind:variable	line:4
+format	../db_update_pk_wrong.py	/^    format = '%(asctime)s %(message)s',$/;"	kind:variable	line:4
+format	../planetakino_recommender.py	/^    format = '%(asctime)s %(message)s',$/;"	kind:variable	line:7
+fp	../bin/pilfont.py	/^        fp = open(f, "rb")$/;"	kind:variable	line:43
+fp	../bin/pilprint.py	/^            fp = p.stdin$/;"	kind:variable	line:83
+fp	../bin/pilprint.py	/^            fp = sys.stdout$/;"	kind:variable	line:85
+frames	../bin/explode.py	/^frames = Interval(",".join(sys.argv[3:]))$/;"	kind:variable	line:77
+genres	../database.py	/^    genres = db.Column(db.String(255))$/;"	kind:variable	line:45
+genres	../database_no_pk.py	/^    genres = db.Column(db.String(255))$/;"	kind:variable	line:40
+genres2vec	../recommender.py	/^def genres2vec(input_genres):$/;"	kind:function	line:97
+genres2vec	../recommender_.py	/^def genres2vec(input_genres):$/;"	kind:function	line:97
+genres2vec	../recommender_old_PK.py	/^def genres2vec(input_genres):$/;"	kind:function	line:97
+genres2vec	../recommender_old_no_PK.py	/^def genres2vec(input_genres):$/;"	kind:function	line:97
+get	../db_update.py	/^def get(method, language = 'en', special_details = ''):$/;"	kind:function	line:32
+get	../db_update_no_pk.py	/^def get(method, language = 'en', special_details = ''):$/;"	kind:function	line:32
+get	../db_update_pk_wrong.py	/^def get(method, language = 'en', special_details = ''):$/;"	kind:function	line:32
+get_data_for_search	../db_update.py	/^def get_data_for_search(agent_name, movies_to_add, auth):$/;"	kind:function	line:99
+get_data_for_search	../db_update_no_pk.py	/^def get_data_for_search(agent_name, movies_to_add, auth):$/;"	kind:function	line:99
+get_data_for_search	../db_update_pk_wrong.py	/^def get_data_for_search(agent_name, movies_to_add, auth):$/;"	kind:function	line:99
+get_movie_dict	../recommender.py	/^def get_movie_dict(tmdb_id):$/;"	kind:function	line:112
+get_movie_dict	../recommender_.py	/^def get_movie_dict(tmdb_id):$/;"	kind:function	line:112
+get_movie_dict	../recommender_old_PK.py	/^def get_movie_dict(tmdb_id):$/;"	kind:function	line:112
+get_movie_dict	../recommender_old_no_PK.py	/^def get_movie_dict(tmdb_id):$/;"	kind:function	line:112
+get_platform	../lib/python3.5/site.py	/^    from distutils.util import get_platform$/;"	kind:namespace	line:136
+get_recommendations	../mailer_git.py	/^    def get_recommendations(self):$/;"	kind:member	line:131
+get_recommendations	../recommender.py	/^    def get_recommendations(self):$/;"	kind:member	line:194
+get_recommendations	../recommender_.py	/^    def get_recommendations(self):$/;"	kind:member	line:194
+get_recommendations	../recommender_old_PK.py	/^    def get_recommendations(self):$/;"	kind:member	line:198
+get_recommendations	../recommender_old_no_PK.py	/^    def get_recommendations(self):$/;"	kind:member	line:194
+get_user_movies	../app.py	/^def get_user_movies(user_id): $/;"	kind:function	line:23
+get_user_movies	../app_.py	/^def get_user_movies(user_id): $/;"	kind:function	line:23
+getopt	../bin/pilconvert.py	/^import getopt$/;"	kind:namespace	line:18
+getopt	../bin/pilfile.py	/^import getopt$/;"	kind:namespace	line:22
+getopt	../bin/pilprint.py	/^import getopt$/;"	kind:namespace	line:15
+getopt	../bin/python-config	/^import getopt$/;"	kind:namespace	line:4
+getvar	../bin/python-config	/^getvar = sysconfig.get_config_var$/;"	kind:variable	line:31
+gifmaker.py	../bin/gifmaker.py	1;"	kind:file	line:1
+glob	../bin/pilfile.py	/^import glob$/;"	kind:namespace	line:23
+glob	../bin/pilfont.py	/^import glob$/;"	kind:namespace	line:15
+globfix	../bin/pilfile.py	/^def globfix(files):$/;"	kind:function	line:68
+headers	../mailer_git.py	/^headers = {'User-Agent': 'curl\/7.52.1', 'Accept' : 'application\/json', 'Content-Type' : 'application\/json'}$/;"	kind:variable	line:51
+html	../bin/explode.py	/^    html = 1$/;"	kind:variable	line:57
+html	../bin/explode.py	/^    html = open(file+".html", "w")$/;"	kind:variable	line:92
+html	../bin/explode.py	/^html = 0$/;"	kind:variable	line:54
+id	../bin/pilfile.py	/^        id = sorted(Image.ID)$/;"	kind:variable	line:51
+id	../database.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:116
+id	../database.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:130
+id	../database.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:147
+id	../database.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:161
+id	../database.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:36
+id	../database.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:73
+id	../database.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:98
+id	../database.py	/^    id = db.Column(db.Integer, primary_key=True)$/;"	kind:variable	line:19
+id	../database_no_pk.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:111
+id	../database_no_pk.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:125
+id	../database_no_pk.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:142
+id	../database_no_pk.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:31
+id	../database_no_pk.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:68
+id	../database_no_pk.py	/^    id = db.Column(db.Integer, primary_key = True)$/;"	kind:variable	line:93
+id	../database_no_pk.py	/^    id = db.Column(db.Integer, primary_key=True)$/;"	kind:variable	line:14
+im	../bin/enhancer.py	/^im = Image.open(sys.argv[1])$/;"	kind:variable	line:55
+im	../bin/explode.py	/^im = Image.open(infile)$/;"	kind:variable	line:88
+im	../bin/gifmaker.py	/^    im = Image.open(sys.argv[1])$/;"	kind:variable	line:30
+im	../bin/painter.py	/^    im = im.convert("RGB")$/;"	kind:variable	line:80
+im	../bin/painter.py	/^im = Image.open(sys.argv[1])$/;"	kind:variable	line:77
+im	../bin/pilconvert.py	/^        im = im.convert(convert)$/;"	kind:variable	line:92
+im	../bin/pilconvert.py	/^    im = Image.open(argv[0])$/;"	kind:variable	line:89
+im	../bin/pilfile.py	/^        im = Image.open(file)$/;"	kind:variable	line:82
+im	../bin/pilprint.py	/^            im = im.convert("L")$/;"	kind:variable	line:79
+im	../bin/pilprint.py	/^        im = Image.open(filepath)$/;"	kind:variable	line:73
+im	../bin/thresholder.py	/^    im = im.convert("L")$/;"	kind:variable	line:74
+im	../bin/thresholder.py	/^im = Image.open(sys.argv[1])$/;"	kind:variable	line:71
+im	../bin/viewer.py	/^    im = Image.open(filename)$/;"	kind:variable	line:51
+imp	../lib/python3.5/distutils/__init__.py	/^import imp$/;"	kind:namespace	line:4
+index	../app.py	/^def index():$/;"	kind:function	line:180
+index	../app_.py	/^def index():$/;"	kind:function	line:169
+infile	../bin/explode.py	/^infile = sys.argv[1]$/;"	kind:variable	line:74
+is	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+is_actual	../database.py	/^    is_actual = db.Column(db.Boolean)$/;"	kind:variable	line:150
+is_actual	../database.py	/^    is_actual = db.Column(db.Boolean)$/;"	kind:variable	line:164
+is_actual	../database_no_pk.py	/^    is_actual = db.Column(db.Boolean)$/;"	kind:variable	line:145
+it	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+ix	../bin/explode.py	/^ix = 1$/;"	kind:variable	line:86
+jaccard_similarity	../recommender.py	/^def jaccard_similarity(query, document):$/;"	kind:function	line:105
+jaccard_similarity	../recommender_.py	/^def jaccard_similarity(query, document):$/;"	kind:function	line:105
+jaccard_similarity	../recommender_old_PK.py	/^def jaccard_similarity(query, document):$/;"	kind:function	line:105
+jaccard_similarity	../recommender_old_no_PK.py	/^def jaccard_similarity(query, document):$/;"	kind:function	line:105
+joinuser	../lib/python3.5/site.py	/^    def joinuser(*args):$/;"	kind:function	line:324
+json	../mailer_git.py	/^import json$/;"	kind:namespace	line:2
+jsonify	../app.py	/^from flask import request, jsonify, Response $/;"	kind:namespace	line:17
+jsonify	../app_.py	/^from flask import request, jsonify, Response $/;"	kind:namespace	line:17
+kwords	../database.py	/^    kwords = db.Column(db.Text)$/;"	kind:variable	line:46
+kwords	../database_no_pk.py	/^    kwords = db.Column(db.Text)$/;"	kind:variable	line:41
+kwords2vec	../recommender.py	/^def kwords2vec(kwords, all_input_kwords, model):$/;"	kind:function	line:76
+kwords2vec	../recommender_.py	/^def kwords2vec(kwords, all_input_kwords, model):$/;"	kind:function	line:76
+kwords2vec	../recommender_old_PK.py	/^def kwords2vec(kwords, all_input_kwords, model):$/;"	kind:function	line:76
+kwords2vec	../recommender_old_no_PK.py	/^def kwords2vec(kwords, all_input_kwords, model):$/;"	kind:function	line:76
+letter	../bin/pilprint.py	/^letter = (1.0*72, 1.0*72, 7.5*72, 10.0*72)$/;"	kind:variable	line:25
+level	../app.py	/^    level = logging.INFO,$/;"	kind:variable	line:3
+level	../app_.py	/^    level = logging.INFO,$/;"	kind:variable	line:3
+level	../db_update.py	/^    level = logging.INFO,$/;"	kind:variable	line:3
+level	../db_update_no_pk.py	/^    level = logging.INFO,$/;"	kind:variable	line:3
+level	../db_update_pk_wrong.py	/^    level = logging.INFO,$/;"	kind:variable	line:3
+level	../planetakino_recommender.py	/^    level = logging.INFO,$/;"	kind:variable	line:6
+locale	../lib/python3.5/site.py	/^        import locale$/;"	kind:namespace	line:532
+locale	../lib/python3.5/site.py	/^        import locale, codecs$/;"	kind:namespace	line:515
+logger	../app.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:9
+logger	../app_.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:9
+logger	../db_update.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:8
+logger	../db_update_no_pk.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:8
+logger	../db_update_pk_wrong.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:8
+logger	../planetakino_recommender.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:11
+logger	../recommender.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:6
+logger	../recommender_.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:6
+logger	../recommender_old_PK.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:6
+logger	../recommender_old_no_PK.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:6
+logging	../app.py	/^import logging$/;"	kind:namespace	line:1
+logging	../app_.py	/^import logging$/;"	kind:namespace	line:1
+logging	../bin/pilfile.py	/^import logging$/;"	kind:namespace	line:24
+logging	../db_update.py	/^import logging$/;"	kind:namespace	line:1
+logging	../db_update_no_pk.py	/^import logging$/;"	kind:namespace	line:1
+logging	../db_update_pk_wrong.py	/^import logging$/;"	kind:namespace	line:1
+logging	../planetakino_recommender.py	/^import logging$/;"	kind:namespace	line:4
+logging	../recommender.py	/^import logging$/;"	kind:namespace	line:1
+logging	../recommender_.py	/^import logging$/;"	kind:namespace	line:3
+logging	../recommender_old_PK.py	/^import logging$/;"	kind:namespace	line:1
+logging	../recommender_old_no_PK.py	/^import logging$/;"	kind:namespace	line:1
+logging_level	../bin/pilfile.py	/^        logging_level = "DEBUG"$/;"	kind:variable	line:63
+logging_level	../bin/pilfile.py	/^logging_level = "WARNING"$/;"	kind:variable	line:46
+lowercase	../recommender.py	/^def lowercase(x):$/;"	kind:function	line:29
+lowercase	../recommender_.py	/^def lowercase(x):$/;"	kind:function	line:29
+lowercase	../recommender_old_PK.py	/^def lowercase(x):$/;"	kind:function	line:29
+lowercase	../recommender_old_no_PK.py	/^def lowercase(x):$/;"	kind:function	line:29
+mailer_git.py	../mailer_git.py	1;"	kind:file	line:1
+main	../lib/python3.5/site.py	/^def main():$/;"	kind:function	line:668
+main	../mailer_git.py	/^def main(filename):$/;"	kind:function	line:218
+makepath	../lib/python3.5/site.py	/^def makepath(*paths):$/;"	kind:function	line:92
+matching	../db_update.py	/^def matching(search_results, premieres_idx, main_premieres_titles, orig_premieres_titles, premieres_years):$/;"	kind:function	line:165
+matching	../db_update_no_pk.py	/^def matching(search_results, premieres_idx, main_premieres_titles, orig_premieres_titles, premieres_years):$/;"	kind:function	line:165
+matching	../db_update_pk_wrong.py	/^def matching(search_results, premieres_idx, main_premieres_titles, orig_premieres_titles, premieres_years):$/;"	kind:function	line:165
+max_plot_len	../mailer_git.py	/^max_plot_len = 314$/;"	kind:variable	line:53
+module	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+monochrome	../bin/pilprint.py	/^        monochrome = 0$/;"	kind:variable	line:62
+monochrome	../bin/pilprint.py	/^monochrome = 1    # reduce file size for most common case$/;"	kind:variable	line:52
+months	../mailer_git.py	/^months = {$/;"	kind:variable	line:55
+months	../utils.py	/^months = {$/;"	kind:variable	line:50
+movie_id	../database.py	/^    movie_id = db.Column(db.Integer)$/;"	kind:variable	line:118
+movie_id	../database.py	/^    movie_id = db.Column(db.Integer)$/;"	kind:variable	line:132
+movie_id	../database_no_pk.py	/^    movie_id = db.Column(db.Integer)$/;"	kind:variable	line:113
+movie_id	../database_no_pk.py	/^    movie_id = db.Column(db.Integer)$/;"	kind:variable	line:127
+movies_preproc	../recommender.py	/^def movies_preproc(movie):$/;"	kind:function	line:49
+movies_preproc	../recommender_.py	/^def movies_preproc(movie):$/;"	kind:function	line:49
+movies_preproc	../recommender_old_PK.py	/^def movies_preproc(movie):$/;"	kind:function	line:49
+movies_preproc	../recommender_old_no_PK.py	/^def movies_preproc(movie):$/;"	kind:function	line:49
+name	../database.py	/^    name = db.Column(db.String(255))$/;"	kind:variable	line:78
+name	../database_no_pk.py	/^    name = db.Column(db.String(255))$/;"	kind:variable	line:73
+new_sys_path	../bin/activate_this.py	/^new_sys_path = []$/;"	kind:variable	line:29
+next	../bin/player.py	/^    def next(self):$/;"	kind:member	line:42
+not	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+not_found	../db_update.py	/^not_found = []$/;"	kind:variable	line:77
+not_found	../db_update_no_pk.py	/^not_found = []$/;"	kind:variable	line:77
+not_found	../db_update_pk_wrong.py	/^not_found = []$/;"	kind:variable	line:77
+not_matched	../db_update.py	/^not_matched = []$/;"	kind:variable	line:78
+not_matched	../db_update_no_pk.py	/^not_matched = []$/;"	kind:variable	line:78
+not_matched	../db_update_pk_wrong.py	/^not_matched = []$/;"	kind:variable	line:78
+not_matched_at_all	../db_update.py	/^not_matched_at_all = []$/;"	kind:variable	line:79
+not_matched_at_all	../db_update_no_pk.py	/^not_matched_at_all = []$/;"	kind:variable	line:79
+not_matched_at_all	../db_update_pk_wrong.py	/^not_matched_at_all = []$/;"	kind:variable	line:79
+novel	../database.py	/^    novel = db.Column(db.String(255))$/;"	kind:variable	line:42
+novel	../database_no_pk.py	/^    novel = db.Column(db.String(255))$/;"	kind:variable	line:37
+np	../recommender.py	/^import numpy as np$/;"	kind:namespace	line:17
+np	../recommender_.py	/^import numpy as np$/;"	kind:namespace	line:17
+np	../recommender_old_PK.py	/^import numpy as np$/;"	kind:namespace	line:17
+np	../recommender_old_no_PK.py	/^import numpy as np$/;"	kind:namespace	line:17
+num_of_movies	../mailer_git.py	/^num_of_movies = []$/;"	kind:variable	line:54
+old_build_ext	../lib/python3.5/distutils/__init__.py	/^    from distutils.command.build_ext import build_ext as old_build_ext$/;"	kind:namespace	line:36
+old_find_config_files	../lib/python3.5/distutils/__init__.py	/^old_find_config_files = dist.Distribution.find_config_files$/;"	kind:variable	line:52
+old_get_config_vars	../lib/python3.5/distutils/__init__.py	/^old_get_config_vars = sysconfig.get_config_vars$/;"	kind:variable	line:90
+old_get_python_inc	../lib/python3.5/distutils/__init__.py	/^old_get_python_inc = sysconfig.get_python_inc$/;"	kind:variable	line:74
+old_get_python_lib	../lib/python3.5/distutils/__init__.py	/^old_get_python_lib = sysconfig.get_python_lib$/;"	kind:variable	line:82
+old_os_path	../bin/activate_this.py	/^old_os_path = os.environ.get('PATH', '')$/;"	kind:variable	line:16
+opcode	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+opt_flags	../bin/python-config	/^opt_flags = [flag for (flag, val) in opts]$/;"	kind:variable	line:33
+options	../bin/pilconvert.py	/^options = {}$/;"	kind:variable	line:55
+os	../app.py	/^import os$/;"	kind:namespace	line:13
+os	../app_.py	/^import os$/;"	kind:namespace	line:13
+os	../bin/activate_this.py	/^import os$/;"	kind:namespace	line:14
+os	../bin/explode.py	/^import os$/;"	kind:namespace	line:12
+os	../bin/pilprint.py	/^import os$/;"	kind:namespace	line:16
+os	../lib/python3.5/distutils/__init__.py	/^import os$/;"	kind:namespace	line:1
+os	../lib/python3.5/site.py	/^import os$/;"	kind:namespace	line:67
+os	../mailer_git.py	/^import os$/;"	kind:namespace	line:4
+outfile	../bin/explode.py	/^    outfile = file + "%03d" + ext$/;"	kind:variable	line:84
+outfile	../bin/explode.py	/^outfile = sys.argv[2]$/;"	kind:variable	line:75
+output_format	../bin/pilconvert.py	/^output_format = None$/;"	kind:variable	line:52
+p	../bin/pilfont.py	/^            p = BdfFontFile.BdfFontFile(fp)$/;"	kind:variable	line:49
+p	../bin/pilfont.py	/^            p = PcfFontFile.PcfFontFile(fp)$/;"	kind:variable	line:46
+p	../bin/pilprint.py	/^            p = subprocess.Popen(printerArgs, stdin=subprocess.PIPE)$/;"	kind:variable	line:82
+paint	../bin/painter.py	/^    def paint(self, event):$/;"	kind:member	line:45
+painter.py	../bin/painter.py	1;"	kind:file	line:1
+parser	../db_update.py	/^parser = argparse.ArgumentParser(description='Parse input string')$/;"	kind:variable	line:12
+parser	../db_update_no_pk.py	/^parser = argparse.ArgumentParser(description='Parse input string')$/;"	kind:variable	line:12
+parser	../db_update_pk_wrong.py	/^parser = argparse.ArgumentParser(description='Parse input string')$/;"	kind:variable	line:12
+parser	../mailer_git.py	/^parser = argparse.ArgumentParser(description='Parse input string')$/;"	kind:variable	line:19
+parser	../planetakino_recommender.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:18
+pilconvert.py	../bin/pilconvert.py	1;"	kind:file	line:1
+pildriver.py	../bin/pildriver.py	1;"	kind:file	line:1
+pilfile.py	../bin/pilfile.py	1;"	kind:file	line:1
+pilfont.py	../bin/pilfont.py	1;"	kind:file	line:1
+pilprint.py	../bin/pilprint.py	1;"	kind:file	line:1
+planetakino_id	../database.py	/^    planetakino_id = db.Column(db.Integer)$/;"	kind:variable	line:162
+planetakino_recommender.py	../planetakino_recommender.py	1;"	kind:file	line:1
+player.py	../bin/player.py	1;"	kind:file	line:1
+port	../app.py	/^port = int(os.getenv('PORT', 5000))$/;"	kind:variable	line:186
+port	../app_.py	/^port = int(os.getenv('PORT', 5000))$/;"	kind:variable	line:175
+poster_path	../database.py	/^    poster_path = db.Column(db.String(255))$/;"	kind:variable	line:40
+poster_path	../database_no_pk.py	/^    poster_path = db.Column(db.String(255))$/;"	kind:variable	line:35
+prev_sys_path	../bin/activate_this.py	/^prev_sys_path = list(sys.path)$/;"	kind:variable	line:23
+print_function	../bin/explode.py	/^from __future__ import print_function$/;"	kind:namespace	line:9
+print_function	../bin/gifmaker.py	/^from __future__ import print_function$/;"	kind:namespace	line:17
+print_function	../bin/pilconvert.py	/^from __future__ import print_function$/;"	kind:namespace	line:16
+print_function	../bin/pildriver.py	/^from __future__ import print_function$/;"	kind:namespace	line:51
+print_function	../bin/pilfile.py	/^from __future__ import print_function$/;"	kind:namespace	line:20
+print_function	../bin/pilfont.py	/^from __future__ import print_function$/;"	kind:namespace	line:13
+print_function	../bin/pilprint.py	/^from __future__ import print_function$/;"	kind:namespace	line:14
+print_function	../bin/player.py	/^from __future__ import print_function$/;"	kind:namespace	line:7
+print_function	../bin/viewer.py	/^from __future__ import print_function$/;"	kind:namespace	line:7
+printerArgs	../bin/pilprint.py	/^        printerArgs = ["lpr", "-P%s" % a]$/;"	kind:variable	line:68
+printerArgs	../bin/pilprint.py	/^        printerArgs = ["lpr"]$/;"	kind:variable	line:65
+printerArgs	../bin/pilprint.py	/^printerArgs = []  # print to stdout$/;"	kind:variable	line:51
+ps	../bin/pilprint.py	/^        ps = PSDraw.PSDraw(fp)$/;"	kind:variable	line:87
+push	../bin/pildriver.py	/^    def push(self, item):$/;"	kind:member	line:71
+pydoc	../lib/python3.5/site.py	/^        import pydoc$/;"	kind:namespace	line:504
+python-config	../bin/python-config	1;"	kind:file	line:1
+pyver	../bin/python-config	/^pyver = sysconfig.get_config_var('VERSION')$/;"	kind:variable	line:30
+quiet	../bin/pilfile.py	/^        quiet = 1$/;"	kind:variable	line:59
+re	../db_update.py	/^import re$/;"	kind:namespace	line:21
+re	../db_update_no_pk.py	/^import re$/;"	kind:namespace	line:21
+re	../db_update_pk_wrong.py	/^import re$/;"	kind:namespace	line:21
+re	../mailer_git.py	/^import re$/;"	kind:namespace	line:11
+real_distutils	../lib/python3.5/distutils/__init__.py	/^    real_distutils = imp.load_module("_virtualenv_distutils", None, distutils_path, ('', '', imp.PKG_DIRECTORY))$/;"	kind:variable	line:17
+recommendation_id	../database.py	/^    recommendation_id = db.Column(db.Integer)$/;"	kind:variable	line:117
+recommendation_id	../database_no_pk.py	/^    recommendation_id = db.Column(db.Integer)$/;"	kind:variable	line:112
+recommendations	../app.py	/^def recommendations():$/;"	kind:function	line:106
+recommendations	../app_.py	/^def recommendations():$/;"	kind:function	line:113
+recommender.py	../recommender.py	1;"	kind:file	line:1
+recommender_.py	../recommender_.py	1;"	kind:file	line:1
+recommender_old_PK.py	../recommender_old_PK.py	1;"	kind:file	line:1
+recommender_old_no_PK.py	../recommender_old_no_PK.py	1;"	kind:file	line:1
+redraw	../bin/thresholder.py	/^    def redraw(self, event=None):$/;"	kind:member	line:51
+removeduppaths	../lib/python3.5/site.py	/^def removeduppaths():$/;"	kind:function	line:113
+render_template	../mailer_git.py	/^def render_template(template_filename, context):$/;"	kind:function	line:72
+render_template_string	../app.py	/^from flask import  abort, render_template_string, send_from_directory$/;"	kind:namespace	line:18
+render_template_string	../app_.py	/^from flask import  abort, render_template_string, send_from_directory$/;"	kind:namespace	line:18
+repair	../bin/painter.py	/^    def repair(self, box):$/;"	kind:member	line:55
+request	../app.py	/^from flask import request, jsonify, Response $/;"	kind:namespace	line:17
+request	../app_.py	/^from flask import request, jsonify, Response $/;"	kind:namespace	line:17
+requests	../db_update.py	/^import requests$/;"	kind:namespace	line:22
+requests	../db_update_no_pk.py	/^import requests$/;"	kind:namespace	line:22
+requests	../db_update_pk_wrong.py	/^import requests$/;"	kind:namespace	line:22
+requests	../mailer_git.py	/^import requests$/;"	kind:namespace	line:1
+result	../planetakino_recommender.py	/^result = rs.get_recommendations()$/;"	kind:variable	line:29
+root	../bin/enhancer.py	/^root = tkinter.Tk()$/;"	kind:variable	line:53
+root	../bin/painter.py	/^root = tkinter.Tk()$/;"	kind:variable	line:75
+root	../bin/player.py	/^    root = tkinter.Tk()$/;"	kind:variable	line:79
+root	../bin/thresholder.py	/^root = tkinter.Tk()$/;"	kind:variable	line:69
+root	../bin/viewer.py	/^    root = tkinter.Tk()$/;"	kind:variable	line:48
+rs	../planetakino_recommender.py	/^rs = Recommender(tmdb_ids,  'planetakino_movies', 'planetakino_id', None)$/;"	kind:variable	line:26
+runtime	../database.py	/^    runtime = db.Column(db.Integer)$/;"	kind:variable	line:47
+runtime	../database_no_pk.py	/^    runtime = db.Column(db.Integer)$/;"	kind:variable	line:42
+search	../db_update.py	/^def search(queries):$/;"	kind:function	line:81
+search	../db_update_no_pk.py	/^def search(queries):$/;"	kind:function	line:81
+search	../db_update_pk_wrong.py	/^def search(queries):$/;"	kind:function	line:81
+search_on_tmdb	../db_update.py	/^def search_on_tmdb(list_to_search, auth):$/;"	kind:function	line:124
+search_on_tmdb	../db_update_no_pk.py	/^def search_on_tmdb(list_to_search, auth):$/;"	kind:function	line:124
+search_on_tmdb	../db_update_pk_wrong.py	/^def search_on_tmdb(list_to_search, auth):$/;"	kind:function	line:124
+send_email	../mailer_git.py	/^    def send_email(self, html,email):$/;"	kind:member	line:210
+send_from_directory	../app.py	/^from flask import  abort, render_template_string, send_from_directory$/;"	kind:namespace	line:18
+send_from_directory	../app_.py	/^from flask import  abort, render_template_string, send_from_directory$/;"	kind:namespace	line:18
+set	../lib/python3.5/site.py	/^    from sets import Set as set$/;"	kind:namespace	line:75
+setBEGINLIBPATH	../lib/python3.5/site.py	/^def setBEGINLIBPATH():$/;"	kind:function	line:362
+setcopyright	../lib/python3.5/site.py	/^def setcopyright():$/;"	kind:function	line:472
+setencoding	../lib/python3.5/site.py	/^def setencoding():$/;"	kind:function	line:525
+sethelper	../lib/python3.5/site.py	/^def sethelper():$/;"	kind:function	line:507
+setinterval	../bin/explode.py	/^    def setinterval(self, interval):$/;"	kind:member	line:22
+setquit	../lib/python3.5/site.py	/^def setquit():$/;"	kind:function	line:379
+site	../bin/activate_this.py	/^import site$/;"	kind:namespace	line:24
+site.py	../lib/python3.5/site.py	1;"	kind:file	line:1
+site_packages	../bin/activate_this.py	/^    site_packages = os.path.join(base, 'Lib', 'site-packages')$/;"	kind:variable	line:20
+site_packages	../bin/activate_this.py	/^    site_packages = os.path.join(base, 'lib', 'python%s' % sys.version[:3], 'site-packages')$/;"	kind:variable	line:22
+sitecustomize	../lib/python3.5/site.py	/^        import sitecustomize$/;"	kind:namespace	line:548
+so	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+stack	../bin/pildriver.py	/^    stack = []          # Stack of pending operations$/;"	kind:variable	line:69
+stdlib	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+stopwords	../recommender.py	/^from nltk.corpus import stopwords$/;"	kind:namespace	line:12
+stopwords	../recommender_.py	/^from nltk.corpus import stopwords$/;"	kind:namespace	line:12
+stopwords	../recommender_old_PK.py	/^from nltk.corpus import stopwords$/;"	kind:namespace	line:12
+stopwords	../recommender_old_no_PK.py	/^from nltk.corpus import stopwords$/;"	kind:namespace	line:12
+string	../bin/pilconvert.py	/^import string$/;"	kind:namespace	line:19
+subprocess	../bin/pilprint.py	/^import subprocess$/;"	kind:namespace	line:18
+sw	../recommender.py	/^sw = set(stopwords.words('english'))$/;"	kind:variable	line:27
+sw	../recommender_.py	/^sw = set(stopwords.words('english'))$/;"	kind:variable	line:27
+sw	../recommender_old_PK.py	/^sw = set(stopwords.words('english'))$/;"	kind:variable	line:27
+sw	../recommender_old_no_PK.py	/^sw = set(stopwords.words('english'))$/;"	kind:variable	line:27
+sys	../bin/activate_this.py	/^import sys$/;"	kind:namespace	line:13
+sys	../bin/enhancer.py	/^import sys$/;"	kind:namespace	line:10
+sys	../bin/explode.py	/^import sys$/;"	kind:namespace	line:13
+sys	../bin/gifmaker.py	/^    import sys$/;"	kind:namespace	line:23
+sys	../bin/painter.py	/^import sys$/;"	kind:namespace	line:12
+sys	../bin/pilconvert.py	/^import sys$/;"	kind:namespace	line:20
+sys	../bin/pildriver.py	/^    import sys$/;"	kind:namespace	line:501
+sys	../bin/pilfile.py	/^import sys$/;"	kind:namespace	line:25
+sys	../bin/pilfont.py	/^import sys$/;"	kind:namespace	line:16
+sys	../bin/pilprint.py	/^import sys$/;"	kind:namespace	line:17
+sys	../bin/player.py	/^import sys$/;"	kind:namespace	line:9
+sys	../bin/python-config	/^import sys$/;"	kind:namespace	line:3
+sys	../bin/thresholder.py	/^import sys$/;"	kind:namespace	line:10
+sys	../bin/viewer.py	/^import sys$/;"	kind:namespace	line:9
+sys	../lib/python3.5/distutils/__init__.py	/^import sys$/;"	kind:namespace	line:2
+sys	../lib/python3.5/site.py	/^import sys$/;"	kind:namespace	line:66
+sys	../mailer_git.py	/^import sys$/;"	kind:namespace	line:8
+sysconfig	../bin/python-config	/^import sysconfig$/;"	kind:namespace	line:5
+sysconfig	../lib/python3.5/distutils/__init__.py	/^from distutils import dist, sysconfig$/;"	kind:namespace	line:25
+sysconfig_get_config_vars	../lib/python3.5/distutils/__init__.py	/^def sysconfig_get_config_vars(*args):$/;"	kind:function	line:91
+sysconfig_get_python_inc	../lib/python3.5/distutils/__init__.py	/^def sysconfig_get_python_inc(plat_specific=0, prefix=None):$/;"	kind:function	line:75
+sysconfig_get_python_lib	../lib/python3.5/distutils/__init__.py	/^def sysconfig_get_python_lib(plat_specific=0, standard_lib=0, prefix=None):$/;"	kind:function	line:83
+test_vs.py	../test_vs.py	1;"	kind:file	line:1
+textwrap	../lib/python3.5/site.py	/^        import textwrap$/;"	kind:namespace	line:753
+the	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+thresholder.py	../bin/thresholder.py	1;"	kind:file	line:1
+tickets	../app.py	/^def tickets():$/;"	kind:function	line:57
+tickets	../app_.py	/^def tickets():$/;"	kind:function	line:57
+time	../app.py	/^import time$/;"	kind:namespace	line:14
+time	../app_.py	/^import time$/;"	kind:namespace	line:14
+time	../db_update.py	/^import time$/;"	kind:namespace	line:24
+time	../db_update_no_pk.py	/^import time$/;"	kind:namespace	line:24
+time	../db_update_pk_wrong.py	/^import time$/;"	kind:namespace	line:24
+title	../bin/pilprint.py	/^        title = description(filepath, im)$/;"	kind:variable	line:75
+title	../database.py	/^    title = db.Column(db.String(255))$/;"	kind:variable	line:48
+title	../database_no_pk.py	/^    title = db.Column(db.String(255))$/;"	kind:variable	line:43
+tkinter	../bin/enhancer.py	/^    import Tkinter as tkinter$/;"	kind:namespace	line:15
+tkinter	../bin/enhancer.py	/^    import tkinter$/;"	kind:namespace	line:13
+tkinter	../bin/painter.py	/^    import Tkinter as tkinter$/;"	kind:namespace	line:17
+tkinter	../bin/painter.py	/^    import tkinter$/;"	kind:namespace	line:15
+tkinter	../bin/player.py	/^    import Tkinter as tkinter$/;"	kind:namespace	line:14
+tkinter	../bin/player.py	/^    import tkinter$/;"	kind:namespace	line:12
+tkinter	../bin/thresholder.py	/^    import Tkinter as tkinter$/;"	kind:namespace	line:15
+tkinter	../bin/thresholder.py	/^    import tkinter$/;"	kind:namespace	line:13
+tkinter	../bin/viewer.py	/^    import Tkinter as tkinter$/;"	kind:namespace	line:14
+tkinter	../bin/viewer.py	/^    import tkinter$/;"	kind:namespace	line:12
+tmdb_fk_id	../database.py	/^    tmdb_fk_id = db.Column(db.Integer)$/;"	kind:variable	line:149
+tmdb_fk_id	../database.py	/^    tmdb_fk_id = db.Column(db.Integer)$/;"	kind:variable	line:163
+tmdb_fk_id	../database_no_pk.py	/^    tmdb_fk_id = db.Column(db.Integer)$/;"	kind:variable	line:144
+tmdb_id	../database.py	/^    tmdb_id = db.Column(db.Integer)$/;"	kind:variable	line:39
+tmdb_id	../database_no_pk.py	/^    tmdb_id = db.Column(db.Integer)$/;"	kind:variable	line:34
+tmdb_ids	../planetakino_recommender.py	/^tmdb_ids = [int(x) for x in args.list]$/;"	kind:variable	line:22
+tmdb_input_info	../recommender.py	/^    def tmdb_input_info(self):$/;"	kind:member	line:130
+tmdb_input_info	../recommender_.py	/^    def tmdb_input_info(self):$/;"	kind:member	line:130
+tmdb_input_info	../recommender_old_PK.py	/^    def tmdb_input_info(self):$/;"	kind:member	line:130
+tmdb_input_info	../recommender_old_no_PK.py	/^    def tmdb_input_info(self):$/;"	kind:member	line:130
+to	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+tokenization	../recommender.py	/^def tokenization(kw_string):$/;"	kind:function	line:35
+tokenization	../recommender_.py	/^def tokenization(kw_string):$/;"	kind:function	line:35
+tokenization	../recommender_old_PK.py	/^def tokenization(kw_string):$/;"	kind:function	line:35
+tokenization	../recommender_old_no_PK.py	/^def tokenization(kw_string):$/;"	kind:function	line:35
+top	../bin/pildriver.py	/^    def top(self):$/;"	kind:member	line:75
+traceback	../bin/pilfile.py	/^        import traceback$/;"	kind:namespace	line:98
+update	../bin/enhancer.py	/^    def update(self, value):$/;"	kind:member	line:42
+update_scale	../bin/thresholder.py	/^    def update_scale(self, value):$/;"	kind:member	line:46
+updated_at	../database.py	/^    updated_at = db.Column(db.DateTime)$/;"	kind:variable	line:134
+updated_at	../database.py	/^    updated_at = db.Column(db.DateTime)$/;"	kind:variable	line:38
+updated_at	../database.py	/^    updated_at = db.Column(db.DateTime)$/;"	kind:variable	line:75
+updated_at	../database_no_pk.py	/^    updated_at = db.Column(db.DateTime)$/;"	kind:variable	line:129
+updated_at	../database_no_pk.py	/^    updated_at = db.Column(db.DateTime)$/;"	kind:variable	line:33
+updated_at	../database_no_pk.py	/^    updated_at = db.Column(db.DateTime)$/;"	kind:variable	line:70
+url_for	../app.py	/^from flask import url_for$/;"	kind:namespace	line:178
+url_for	../app_.py	/^from flask import url_for$/;"	kind:namespace	line:167
+urllib	../mailer_git.py	/^import urllib$/;"	kind:namespace	line:10
+usage	../bin/pilconvert.py	/^def usage():$/;"	kind:function	line:25
+use	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+user_id	../database.py	/^    user_id = db.Column(db.Integer)$/;"	kind:variable	line:100
+user_id	../database.py	/^    user_id = db.Column(db.Integer)$/;"	kind:variable	line:131
+user_id	../database_no_pk.py	/^    user_id = db.Column(db.Integer)$/;"	kind:variable	line:126
+user_id	../database_no_pk.py	/^    user_id = db.Column(db.Integer)$/;"	kind:variable	line:95
+usercustomize	../lib/python3.5/site.py	/^        import usercustomize$/;"	kind:namespace	line:663
+utils.py	../utils.py	1;"	kind:file	line:1
+valid_opts	../bin/python-config	/^valid_opts = ['prefix', 'exec-prefix', 'includes', 'libs', 'cflags',$/;"	kind:variable	line:7
+verbose	../bin/pildriver.py	/^    verbose = 0$/;"	kind:variable	line:58
+verbose	../bin/pilfile.py	/^        verbose = 1$/;"	kind:variable	line:57
+verify	../bin/pilfile.py	/^        verify = 1$/;"	kind:variable	line:61
+viewer.py	../bin/viewer.py	1;"	kind:file	line:1
+virtual_addsitepackages	../lib/python3.5/site.py	/^def virtual_addsitepackages(known_paths):$/;"	kind:function	line:642
+virtual_install_main_packages	../lib/python3.5/site.py	/^def virtual_install_main_packages():$/;"	kind:function	line:552
+virtualenv	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+vkino_id	../database.py	/^    vkino_id = db.Column(db.Integer)$/;"	kind:variable	line:148
+vkino_id	../database_no_pk.py	/^    vkino_id = db.Column(db.Integer)$/;"	kind:variable	line:143
+warnings	../lib/python3.5/distutils/__init__.py	/^import warnings $/;"	kind:namespace	line:3
+warnings	../planetakino_recommender.py	/^import warnings$/;"	kind:namespace	line:1
+we	../lib/python3.5/distutils/__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
+word2vec	../recommender.py	/^from gensim.models import word2vec$/;"	kind:namespace	line:14
+word2vec	../recommender_.py	/^from gensim.models import word2vec$/;"	kind:namespace	line:14
+word2vec	../recommender_old_PK.py	/^from gensim.models import word2vec$/;"	kind:namespace	line:14
+word2vec	../recommender_old_no_PK.py	/^from gensim.models import word2vec$/;"	kind:namespace	line:14
+word_tokenize	../recommender.py	/^from nltk.tokenize import word_tokenize$/;"	kind:namespace	line:13
+word_tokenize	../recommender_.py	/^from nltk.tokenize import word_tokenize$/;"	kind:namespace	line:13
+word_tokenize	../recommender_old_PK.py	/^from nltk.tokenize import word_tokenize$/;"	kind:namespace	line:13
+word_tokenize	../recommender_old_no_PK.py	/^from nltk.tokenize import word_tokenize$/;"	kind:namespace	line:13
+write	../db_update.py	/^def write(true_tmdb_idx, db_name, column_name, movie_status, logger = None):$/;"	kind:function	line:253
+write	../db_update_no_pk.py	/^def write(true_tmdb_idx, db_name, column_name, movie_status, logger = None):$/;"	kind:function	line:253
+write	../db_update_pk_wrong.py	/^def write(true_tmdb_idx, db_name, column_name, movie_status, logger = None):$/;"	kind:function	line:253

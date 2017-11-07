@@ -1,10 +1,13 @@
+import warnings
+warnings.filterwarnings('ignore')
+
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-from werkzeug.contrib.fixers import ProxyFix
 
 app = Flask(__name__)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:root@localhost/movies_dev'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://ai:Machine_Learning128@192.168.0.112/movies_development?charset=utf8'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
 
@@ -150,16 +153,14 @@ class Vkino(db.Model):
         self.is_actual = is_actual
     
     
-#class PlanetaKino(db.Model):
+class PlanetaKino(db.Model):
+    __tablename__ = 'planetakino_movies'
     
- #   __tablename__ = 'planetakino_movies'
-    
-  #  id = db.Column(db.Integer, primary_key = True)
-   # planetakino_id = db.Column(db.Integer)
-   # tmdb_fk_id = db.Column(db.Integer)
-   # is_actual = db.Column(db.Boolean)
-    
-   # def __init__(self, planetakino_id, tmdb_fk_id, is_actual):
-    #    self.vkino_id = vkino_id
-     #   self.tmdb_fk_id = tmdb_fk_id
-      #  self.is_actual = is_actual
+    id = db.Column(db.Integer, primary_key = True)
+    planetakino_id = db.Column(db.Integer)
+    tmdb_fk_id = db.Column(db.Integer)
+    is_actual = db.Column(db.Boolean)
+    def __init__(self, planetakino_id, tmdb_fk_id, is_actual):
+        self.vkino_id = vkino_id
+        self.tmdb_fk_id = tmdb_fk_id
+        self.is_actual = is_actual
